@@ -56,6 +56,6 @@ Call different variables to get the values<br>
 This project was completed as a team final project for CS100.<br>
 Kanika<br>
 Remy Fortsch ( @SirLampsALot )<br>
-Jester De Jesus<br>
+Jester Ryan De Jesus<br>
 
 All team members contributed to the design, logic, and implementation of the project.
